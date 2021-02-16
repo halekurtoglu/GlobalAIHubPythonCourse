@@ -2,9 +2,9 @@
 ![](img/logo.png)
 
 **Course Date:**
-**Name:** Elif  
-**Surname:** Yiğit  
-**Email:** elif89876@gmail.com  
+**Name:** Halenur  
+**Surname:** Kurtoğlu  
+**Email:** halenur4106@hotmail.com.tr
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
