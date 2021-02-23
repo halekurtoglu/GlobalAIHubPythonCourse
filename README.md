@@ -6,7 +6,6 @@
 **Surname:** Kurtoğlu  
 **Email:** halenur4106@hotmail.com.tr
 
-
 ## Project Name
 Description...
 
